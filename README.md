@@ -3,13 +3,13 @@ Welcome to my portfolio! This repository demonstrates my practical skills in Man
 
 I am a passionate Software Tester currently mastering Manual Testing concepts and learning Java to transition into full-stack QA.
 
-# 🛠️ Project 1: Manual Testing (SauceDemo)
+## 🛠️ Project 1: Manual Testing (SauceDemo)
 
-##  Domain: E-commerce
+###  Domain: E-commerce
 
-## Objective: To verify the functionality of the online shopping workflow, including login, product inventory, cart, and checkout.
+### Objective: To verify the functionality of the online shopping workflow, including login, product inventory, cart, and checkout.
 
-Key Contributions:
+### Key Contributions:
 
 Created test scenarios and detailed test cases for Login, Products, Shopping Cart, and Checkout modules.
 
@@ -21,9 +21,7 @@ Documented actual results and compared them with expected results.
 
 Recorded defects in Defect report in during test execution.
 
-Application: SauceDemo
-
-Project Documents:
+### Project Documents:
 Test plan
 Test Cases
 Defect Report
