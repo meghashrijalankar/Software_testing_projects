@@ -1,4 +1,4 @@
-🛠️ Project 1: Manual Testing (SauceDemo)
+#🛠️ Project 1: Manual Testing (SauceDemo)
 
 Domain: E-commerce
 
