@@ -27,9 +27,9 @@ Test plan
 Test Cases
 Defect Report
 
-# 🛠️ Project 2: Manual Testing (OrangeHRM)
+## 🛠️ Project 2: Manual Testing (OrangeHRM)
 
-## Domain: Human Resource Management (HRM)
+### Domain: Human Resource Management (HRM)
 
 ### Objective: To validate the functionality of the HR management application, including employee management and user administration.
 
@@ -50,4 +50,3 @@ Test Scenarios
 
 Test Cases
 
-Test Execution Results
