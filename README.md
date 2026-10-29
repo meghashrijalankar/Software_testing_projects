@@ -22,6 +22,32 @@ Documented actual results and compared them with expected results.
 Recorded defects in Defect report in during test execution.
 
 ### Project Documents:
+
 Test plan
 Test Cases
 Defect Report
+
+# 🛠️ Project 2: Manual Testing (OrangeHRM)
+
+## Domain: Human Resource Management (HRM)
+
+### Objective: To validate the functionality of the HR management application, including employee management and user administration.
+
+### Key Contributions:
+
+Designed test scenarios and test cases for Login, Admin, and PIM (Personal Information Management) modules.
+
+Tested employee creation, employee search, and employee information management.
+
+Verified form validations, error messages, and application navigation.
+
+
+Application: OrangeHRM Demo
+
+Project Documents:
+
+Test Scenarios
+
+Test Cases
+
+Test Execution Results
